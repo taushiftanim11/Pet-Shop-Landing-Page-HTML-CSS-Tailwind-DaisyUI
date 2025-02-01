@@ -16,3 +16,19 @@
     background-position: bottom right;
     background-repeat: no-repeat;
 }
+.g-1{
+    background: linear-gradient(90deg, rgba(242,204,251,1) 0%, rgba(183,209,253,1) 100%);
+}
+.g1{
+    background-image: url(../assets/cute-dog-mid.png);
+    background-repeat: no-repeat;
+    background-position: center right;
+}
+.g-2{
+    background: linear-gradient(135deg, rgba(255,255,255,1) 0%, rgba(250,223,140,1) 100%);
+}
+.g2{
+    background-image: url(../assets/cute-pet-mid.png);
+    background-repeat: no-repeat;
+    background-position: bottom right;
+}
