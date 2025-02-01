@@ -11,3 +11,8 @@
     background-position: bottom;
     background-repeat: no-repeat;
 }
+.small-pet{
+    background: url(../assets/cute-pet-small.png);
+    background-position: bottom right;
+    background-repeat: no-repeat;
+}
