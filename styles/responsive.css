@@ -1,0 +1,128 @@
+@media (max-width: 450px) {
+    nav span,
+    nav ul,
+    .nav-btn{
+        display: none !important;
+    }
+    h2{
+        font-size: 30px !important;
+        padding-left: 20px !important;
+    }
+    .hero{
+        width: 390px;
+        padding: 20px;
+        background-size: 430px auto;
+        height: 435px !important;
+    }
+    .hero h1{
+        padding-top: 40px !important;
+        width: 370px !important;
+    }
+    .hero p {
+        width: 370px !important;
+    }
+    .section{
+        width: 100% !important;
+    }
+    nav{
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+    .burger{
+        display: block;
+    }
+    .animation{
+        font-size: 30px !important;
+    }
+    .cc{
+        padding: 20px;
+        justify-content: center !important;
+        column-gap: 8px !important;
+    }
+    .cc>div{
+        padding-left: 20px !important;
+        padding-right: 20px !important;
+    }
+    .tp{
+        flex-direction: column !important;
+        align-items: center !important;
+        padding-bottom: 40px !important;
+    }
+    .tpc{
+        width: 390px !important;
+        row-gap: 5px !important;
+        column-gap: 5px !important;
+        padding: 10px;
+        justify-content: center !important;
+    }
+    .tpcc{
+        padding: 10px !important;
+    }
+    .tpccm{
+        margin-right: 0px !important;
+    } 
+    .tpcci img {
+        padding: 5px !important;
+    }
+    .small-pet{
+         height: 350px !important;
+         width: 350px !important;
+    }
+    .lowc{
+        flex-direction: column !important;
+        justify-content: center !important;
+        align-items: center !important;
+        row-gap: 10px !important;
+    }
+    .lc1{
+        width: 360px !important;
+        height: 335px !important;
+    }
+    .lc1>div{
+        padding: 40px;
+        background-size: 214px 268px;
+        background-position: bottom right;
+        height: 100%;
+    }
+    .lc1 span,
+    .lc1 h4{
+        display: none;
+    }
+    .lc2{
+        width: 360px !important;
+        height: 335px !important;
+    }
+    .lc2>div{
+        padding: 40px;
+        background-size: 214px 268px;
+        background-position: bottom right;
+        height: 100%;
+    }
+    .popup{
+        flex-direction: column !important;
+        padding-left: 20px !important;
+        padding-right: 20px !important;
+        width: 370px !important;
+    }
+    .pb2 {
+        margin-left: 0px !important;
+    }
+    .pb2 h2{
+        padding: 0px !important;
+    }
+    .pb2 input{
+        width: 312px;
+    }
+    .fs{
+        margin-top: 320px !important;
+        flex-direction: column !important;
+        align-items: start;
+        justify-content: start;
+        row-gap: 30px !important;
+        padding: 20px;
+    }
+    footer{
+        height: 1000px !important;
+    }
+
+}

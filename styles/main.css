@@ -32,3 +32,17 @@
     background-repeat: no-repeat;
     background-position: bottom right;
 }
+/* .animation {
+    animation: rotate 2s linear;
+  }
+@keyframes rotate {
+    from {
+      transform: rotate(0deg);
+    }
+    to {
+      transform: rotate(360deg);
+    }
+} */
+.burger {
+    display: none;
+}
